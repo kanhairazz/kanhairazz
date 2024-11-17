@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kanhairazz
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently learning ml and ai
-- 💞️ I’m looking to collaborate with 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with no one
+- 📫 How to reach me  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
